@@ -45,3 +45,4 @@ For a simple example, you could use [sirv-cli](https://www.npmjs.com/package/sir
 ```shellscript
 npx sirv-cli build/client/ --single
 ```
+# Academy
